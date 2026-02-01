@@ -14,3 +14,4 @@ Week 4:
   Using the Learnings to create a Trading Environment in Which the agent learns by Q-learning Algorithm.
 
 WIDS Report.pdf contain the summarised content for the learnings from the WiDS 5.0 bootcamp. 
+The link to it is https://drive.google.com/file/d/1uQ801XgfDThG_pSwuhlzAi-eC-iC60kY/view?usp=drive_link
